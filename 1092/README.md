@@ -1,3 +1,5 @@
+# Problem #1092
+
 A regular number in mathematics is defined as one which evenly divides by some power of 60.
 
 Equivalently, we can say that a regular number is one whose only prime divisors are 2, 3, and 5.
